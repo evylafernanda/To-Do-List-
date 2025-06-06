@@ -2,8 +2,6 @@
 
 Projeto de lista de tarefas (To Do List) simples, bonita e funcional — feita com HTML, CSS e JavaScript puro. 💜
 
-![To Do List EB](capa.jpg) <!-- Você pode adicionar uma imagem de preview aqui -->
-
 ## ✨ Funcionalidades
 
 - [x] Adicionar novas tarefas
